@@ -10,8 +10,8 @@
 
 ---
 
-Como estoy aprendiendo, algunos de mis códigos pueden parecer un poco caóticos,  
-pero poco a poco van tomando forma 😄.
+Como estoy aprendiendo, algunos de mis códigos irán mejorando dia a dia,  
+pero cada vez van tomando mejor forma 😄.
 
 Tengo un nivel intermedio en los lenguajes que uso.  
 En **Java**, **HTML/CSS**, **JavaScript**, **R**, **Python** y **React** me defiendo bastante bien.  
@@ -37,6 +37,7 @@ En el resto voy avanzando progresivamente mientras estudio DAW.
 ### 📫 Contacto
 Si quieres hablar conmigo, ¡adelante!  
 **Discord:** *chiva8*  
+**Gmail:** *oriolchiva8@gmail.com*
 
 ---
 
@@ -49,7 +50,9 @@ Si quieres hablar conmigo, ¡adelante!
 ---
 
 ## 📊 Mis estadísticas en GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact" height="170"/>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chivaa8&show_icons=true" width="48%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chivaa8&layout=compact" width="48%">
 </p>
+
