@@ -13,32 +13,30 @@
 Como estoy aprendiendo, algunos de mis códigos pueden parecer un poco caóticos,  
 pero poco a poco van tomando forma 😄.
 
-Tengo un nivel básico/intermedio en los lenguajes que uso.  
-En **Java**, **HTML/CSS** y **JavaScript** me defiendo bastante bien.  
+Tengo un nivel intermedio en los lenguajes que uso.  
+En **Java**, **HTML/CSS**, **JavaScript**, **R**, **Python** y **React** me defiendo bastante bien.  
 En el resto voy avanzando progresivamente mientras estudio DAW.
 
 ---
 
 ### 🔹 ¿Qué estoy haciendo ahora?
-- 🧠 Actualmente aprendiendo **Java**, **PHP** y **MySQL**  
+- 🧠 Actualmente aprendiendo **FastAPI** y **Angular**  
 - 🏗️ Trabajando en proyectos del ciclo y cosillas que se me ocurren  
 - 📚 Mejorando mis habilidades poco a poco  
 
 ---
 
 ### 🔹 Proyectos interesantes (de momento)
-> *(Cambia estos nombres cuando tengas los repos subidos)*
 
-- 📁 **Máquina Expendedora de Frutas** (Java)  
-- 🌐 **Mini webs y ejercicios de HTML/CSS/JS**  
-- 🔐 **Pequeños proyectos de backend en PHP**
+- 📁 **Cluster Heatmap** (R)  
+- 🌐 **Ejercicios puntuables de Python**  
+- 🔐 **Pequeños proyectos de backend en FastAPI/Python**
 
 ---
 
 ### 📫 Contacto
 Si quieres hablar conmigo, ¡adelante!  
-**Discord:** *OriolChiva#0001*  
-*(O pon el tuyo real tal cual lo tengas ahora)*
+**Discord:** *chiva8*  
 
 ---
 
