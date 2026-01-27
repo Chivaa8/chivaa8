@@ -39,10 +39,22 @@ En el resto voy avanzando progresivamente mientras estudio DAW.
 
 ### 🔹 Proyectos destacados
 
-- 🧬 **Cluster Heatmap & Volcano Plot Apps** (R / Bioinformática)  
-- 🏴‍☠️ **One Piece – Catálogo de Personajes** (React + Context + json-server)  
-- 🔐 **Proyectos de backend con FastAPI y Python**  
-- 🌐 **Ejercicios puntuables de Python**
+- 🏴‍☠️ **[One Piece – Catálogo de Personajes](https://github.com/Chivaa8/One-Piece)**  
+  React · Context API · json-server
+
+- 🧬 **[Volcano Plot App (Bioinformática)](https://github.com/Chivaa8/volcano_app_r)**  
+  R · Análisis de expresión génica
+
+- 🧬 **[Cluster Heatmap App (Bioinformática)](https://github.com/Chivaa8/primera_app_r_cluster_heatmap)**  
+  R · Clustering jerárquico
+
+- 🌐 **[Badalona Sostenible – Web informativa](https://github.com/Chivaa8/Badalona-Sostenible)**  
+  HTML · CSS · JavaScript
+
+- 🐍 **[Ejercicio evaluable – Feedback Unidad 4 (Python)](https://github.com/Chivaa8/Ejercicio-Evaluable-Feedback-Unidad-4-Python-SEAS-)**
+
+- 🐍 **[Examen Unidad 1 – Python (SEAS)](https://github.com/Chivaa8/Examen-Unidad-1-Python-SEAS)**
+
 ---
 
 ### 📫 Contacto
