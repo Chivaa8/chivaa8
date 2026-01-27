@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudiante de DAW (2º año)  
   <br>
-  💻 Me gusta programar, aprender cosas nuevas y romper código sin querer 😉
+  💻 Me gusta programar, aprender cosas nuevas y resolver problemas (a veces rompiendo cosas por el camino 😉)
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=chivaa8&color=blue" alt="profile views" />
 </p>
@@ -19,19 +19,30 @@ En el resto voy avanzando progresivamente mientras estudio DAW.
 
 ---
 
-### 🔹 ¿Qué estoy haciendo ahora?
-- 🧠 Actualmente aprendiendo **FastAPI** y **Angular**  
-- 🏗️ Trabajando en proyectos del ciclo y cosillas que se me ocurren  
-- 📚 Mejorando mis habilidades poco a poco  
+### 🔹 Tecnologías y conocimientos
+
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Java, Python, FastAPI  
+- **Data / Bioinformática:** R, visualización de datos  
+- **Otros:** Git, GitHub, MySQL
+
 
 ---
 
-### 🔹 Proyectos interesantes (de momento)
+### 🔹 ¿En qué estoy trabajando ahora?
 
-- 📁 **Cluster Heatmap** (R)  
-- 🌐 **Ejercicios puntuables de Python**  
-- 🔐 **Pequeños proyectos de backend en FastAPI/Python**
+- 🧠 Aprendiendo **FastAPI** y **Angular**  
+- 🏗️ Desarrollando proyectos completos con frontend y backend  
+- 📚 Mejorando buenas prácticas y estructura de código  
 
+---
+
+### 🔹 Proyectos destacados
+
+- 🧬 **Cluster Heatmap & Volcano Plot Apps** (R / Bioinformática)  
+- 🏴‍☠️ **One Piece – Catálogo de Personajes** (React + Context + json-server)  
+- 🔐 **Proyectos de backend con FastAPI y Python**  
+- 🌐 **Ejercicios puntuables de Python**
 ---
 
 ### 📫 Contacto
