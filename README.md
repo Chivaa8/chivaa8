@@ -39,7 +39,7 @@ En el resto voy avanzando progresivamente mientras estudio DAW.
 
 ### 🔹 Proyectos destacados
 
-- 🏴‍☠️ **[One Piece] (https://github.com/Chivaa8/One-Piece)**  
+- 🏴‍☠️ **[One Piece](https://github.com/Chivaa8/One-Piece)**  
   React · Context API · json-server
 
 - 🧬 **[Volcano Plot App (Bioinformática)](https://github.com/Chivaa8/volcano_app_r)**  
