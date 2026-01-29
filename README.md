@@ -80,13 +80,14 @@ Si quieres hablar conmigo, ¡adelante!
 <div align="center">
 
 <img 
-    src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent"
-    height="170"
+  src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=1800"
+  height="170"
 />
 
 <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent"
-    height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent&cache_seconds=1800"
+  height="170"
 />
+
 
 </div>
