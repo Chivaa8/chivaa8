@@ -78,15 +78,17 @@ Si quieres hablar conmigo, ¡adelante!
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent"
     height="170"
-    alt="GitHub stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent"
     height="170"
-    alt="Most used languages"
   />
+
 </div>
+
 
