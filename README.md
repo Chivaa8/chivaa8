@@ -51,6 +51,9 @@ En el resto voy avanzando progresivamente mientras estudio DAW.
 - 🌐 **[Badalona Sostenible – Web informativa](https://github.com/Chivaa8/Badalona-Sostenible)**  
   HTML · CSS · JavaScript
 
+- ⚓ **[Hundir la Flota](https://github.com/Chivaa8/Hundir-Flota)**  
+  Python · FastAPI · JavaScript · HTML · CSS  
+
 - 🐍 **[Ejercicio evaluable – Feedback Unidad 4 (Python)](https://github.com/Chivaa8/Ejercicio-Evaluable-Feedback-Unidad-4-Python-SEAS-)**
 
 - 🐍 **[Examen Unidad 1 – Python (SEAS)](https://github.com/Chivaa8/Examen-Unidad-1-Python-SEAS)**
