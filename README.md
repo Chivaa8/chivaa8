@@ -21,9 +21,9 @@ En el resto voy avanzando progresivamente mientras estudio DAW.
 
 ### 🔹 Tecnologías y conocimientos
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Java, Python, FastAPI  
-- **Data / Bioinformática:** R, visualización de datos  
+- **Frontend:** HTML, CSS, JavaScript, React, Angular, TypeScript  
+- **Backend:** Java, Python, FastAPI, Node  
+- **Data / Bioinformática:** R, Visualización de datos  
 - **Otros:** Git, GitHub, MySQL
 
 
