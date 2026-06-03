@@ -99,5 +99,11 @@ Actualmente sigo ampliando mis conocimientos mientras desarrollo proyectos perso
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chivaa8&theme=transparent" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&theme=transparent&cache_seconds=1800"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent&cache_seconds=1800"
+/>
 </div>
