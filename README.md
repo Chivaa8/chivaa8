@@ -30,8 +30,8 @@ Actualmente sigo ampliando mis conocimientos mientras desarrollo proyectos perso
 
 ### 🔹 Tecnologías y conocimientos
 
-* **Frontend:** HTML, CSS, JavaScript, TypeScript, React, React Native, Angular, Tailwind CSS
-* **Backend:** Java, Python, FastAPI, Node.js, Express, NestJS
+* **Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, React, React Native, Angular, Tailwind CSS
+* **Backend:** Java, Python, FastAPI, Node.js, Express, NestJS, GraphQL (Strawberry)
 * **Bases de datos:** PostgreSQL, MySQL, MongoDB, Firestore
 * **Cloud / DevOps:** AWS, Docker, Linux, GitHub Actions
 * **Data / IA:** R, Big Data, Machine Learning, Visualización de datos
@@ -89,7 +89,7 @@ Actualmente sigo ampliando mis conocimientos mientras desarrollo proyectos perso
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,express,nestjs,python,java,postgres,mysql,mongodb,docker,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,tailwind,nodejs,express,nestjs,python,java,postgres,mysql,mongodb,docker,aws,git,github,vscode,linux" />
 </p>
 
 ---
