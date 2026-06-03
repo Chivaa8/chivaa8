@@ -1,18 +1,16 @@
-<h1 align="center">Hola 👋, soy Oriol Chiva</h1>
+# Hola 👋, soy Oriol Chiva
 
-<p align="center">
-  💻 Junior Full Stack Developer
-  <br>
-  🎓 DAW · SMX · Python Avanzado · Big Data · Machine Learning
-  <br>
-  🚀 Angular · React · React Native · TypeScript
-  <br>
-  ⚙️ NestJS · FastAPI · Python · Java
-  <br>
-  ☁️ AWS · Docker · PostgreSQL · MongoDB
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=chivaa8&color=blue" alt="profile views" />
-</p>
+💻 **Junior Full Stack Developer**
+
+🎓 **DAW · SMX**
+
+🚀 **Angular · React · React Native · TypeScript**
+
+⚙️ **NestJS · FastAPI · Python · Java**
+
+☁️ **AWS · Docker · PostgreSQL · MongoDB**
+
+![Profile Views](https://komarev.com/ghpvc/?username=chivaa8&color=blue)
 
 
 ---
