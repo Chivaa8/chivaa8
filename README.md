@@ -1,76 +1,83 @@
 <h1 align="center">Hola 👋, soy Oriol Chiva</h1>
 
 <p align="center">
-  🎓 Estudiante de DAW (2º año)  
+  💻 Junior Full Stack Developer
   <br>
-  💻 Me gusta programar, aprender cosas nuevas y resolver problemas (a veces rompiendo cosas por el camino 😉)
+  🚀 Angular · React · React Native · NestJS · FastAPI · Python
+  <br>
+  🗄️ PostgreSQL · MongoDB · MySQL
+  <br>
+  🎓 DAW · Python Avanzado · Big Data · Machine Learning · Virtualización
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=chivaa8&color=blue" alt="profile views" />
 </p>
 
 ---
 
-Como estoy aprendiendo, algunos de mis códigos irán mejorando dia a dia,  
-pero cada vez van tomando mejor forma 😄.
+Actualmente desarrollo proyectos Full Stack utilizando tecnologías modernas de frontend y backend.
 
-Tengo un nivel intermedio en los lenguajes que uso.  
-En **Java**, **HTML/CSS**, **JavaScript**, **R**, **Python** y **React** me defiendo bastante bien.  
-En el resto voy avanzando progresivamente mientras estudio DAW.
+Me gusta crear aplicaciones completas, aprender nuevas tecnologías y mejorar continuamente mis habilidades como desarrollador.
 
 ---
 
 ### 🔹 Tecnologías y conocimientos
 
-- **Frontend:** HTML, CSS, JavaScript, React, Angular, TypeScript  
-- **Backend:** Java, Python, FastAPI, Node  
-- **Data / Bioinformática:** R, Visualización de datos  
-- **Otros:** Git, GitHub, MySQL
+* **Frontend:** HTML, CSS, JavaScript, TypeScript, React, React Native, Angular, Tailwind CSS
+* **Backend:** Java, Python, FastAPI, Node.js, Express, NestJS
+* **Bases de datos:** PostgreSQL, MySQL, MongoDB, Firestore
+* **Data / IA:** R, Big Data, Machine Learning, Visualización de datos
+* **Otros:** Git, GitHub, Linux, Docker, Swagger/OpenAPI
+
+---
+
+### 🎓 Formación
+
+* CFGS Desarrollo de Aplicaciones Web (DAW)
+* Programación Avanzada en Python (150h)
+* Big Data, Machine Learning y Virtualización (150h)
 
 
 ---
 
 ### 🔹 ¿En qué estoy trabajando ahora?
 
-- 🧠 Aprendiendo **FastAPI** y **Angular**  
-- 🏗️ Desarrollando proyectos completos con frontend y backend  
-- 📚 Mejorando buenas prácticas y estructura de código  
+* 🏗️ Desarrollando proyectos Full Stack
+* ⚡ Creando APIs con NestJS, FastAPI y Node.js
+* 📱 Desarrollando aplicaciones con React Native
+* 🗄️ Profundizando en PostgreSQL, MongoDB y arquitectura backend
+* 📚 Mejorando buenas prácticas, estructura de código y despliegue con Docker
 
 ---
 
 ### 🔹 Proyectos destacados
 
-- 🏴‍☠️ **[One Piece](https://github.com/Chivaa8/One-Piece)**  
-  React · Context API · json-server
+* 📋 **[Gestor de Permisos Laborales](https://github.com/Chivaa8/gestor-permisos-laborales)** <br>Angular · TypeScript · Node.js · Express · MongoDB · JWT · Docker · Swagger
 
-- 🧬 **[Volcano Plot App (Bioinformática)](https://github.com/Chivaa8/volcano_app_r)**  
-  R · Análisis de expresión génica
+* 🚀 **[GraphQL FastAPI](https://github.com/Chivaa8/GraphQL-FastAPI)** <br>GraphQL · FastAPI · Python · Firestore
 
-- 🧬 **[Cluster Heatmap App (Bioinformática)](https://github.com/Chivaa8/primera_app_r_cluster_heatmap)**  
-  R · Clustering jerárquico
+* ⚓ **[Hundir la Flota](https://github.com/Chivaa8/Hundir-Flota)** <br>FastAPI · Python · JavaScript · HTML · CSS
 
-- 🌐 **[Badalona Sostenible – Web informativa](https://github.com/Chivaa8/Badalona-Sostenible)**  
-  HTML · CSS · JavaScript
+* 🏴‍☠️ **[One Piece](https://github.com/Chivaa8/One-Piece)** <br>React · JavaScript · Context API · json-server
 
-- ⚓ **[Hundir la Flota](https://github.com/Chivaa8/Hundir-Flota)**  
-  Python · FastAPI · JavaScript · HTML · CSS  
-
-- 🐍 **[Ejercicio evaluable – Feedback Unidad 4 (Python)](https://github.com/Chivaa8/Ejercicio-Evaluable-Feedback-Unidad-4-Python-SEAS-)**
-
-- 🐍 **[Examen Unidad 1 – Python (SEAS)](https://github.com/Chivaa8/Examen-Unidad-1-Python-SEAS)**
+* 📊 **[Volcano Plot App (Bioinformática)](https://github.com/Chivaa8/volcano_app_r)** <br>R · Visualización de datos · Bioinformática
 
 ---
 
 ### 📫 Contacto
-Si quieres hablar conmigo, ¡adelante!  
-**Discord:** *chiva8*  
-**Gmail:** *oriolchiva8@gmail.com*
+
+**Discord:** *chiva8*
+**Gmail:** *[oriolchiva8@gmail.com](mailto:oriolchiva8@gmail.com)*
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,php,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,express,nestjs,python,java,postgres,mysql,mongodb,docker,git,github,vscode,linux" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,fastapi,swagger,firebase" />
 </p>
 
 ---
@@ -79,16 +86,14 @@ Si quieres hablar conmigo, ¡adelante!
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent"
-    height="170"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent"
+ height="170"
+/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent"
-    height="170"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent"
+ height="170"
+/>
 
 </div>
-
-
