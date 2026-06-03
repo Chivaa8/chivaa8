@@ -3,22 +3,30 @@
 <p align="center">
   💻 Junior Full Stack Developer
   <br>
-  🚀 Angular · React · React Native · NestJS · FastAPI · Python
+  🎓 DAW · SMX
   <br>
-  🗄️ PostgreSQL · MongoDB · MySQL
+  🚀 Angular · React · React Native · TypeScript
   <br>
-  ☁️ AWS · Docker · Linux
+  ⚙️ NestJS · FastAPI · Python · Java
   <br>
-  🎓 DAW · Python Avanzado · Big Data · Machine Learning · Virtualización
+  ☁️ AWS · Docker · PostgreSQL · MongoDB
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=chivaa8&color=blue" alt="profile views" />
 </p>
 
+
 ---
 
-Actualmente desarrollo proyectos Full Stack utilizando tecnologías modernas de frontend y backend.
+## 🚀 Sobre mí
 
-Me gusta crear aplicaciones completas, aprender nuevas tecnologías y mejorar continuamente mis habilidades como desarrollador.
+Soy desarrollador Full Stack con formación en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMX).
+
+He desarrollado proyectos con Angular, React, React Native, NestJS, FastAPI, GraphQL y diferentes bases de datos SQL y NoSQL.
+
+También me he formado en Python, Big Data, Machine Learning y Virtualización, complementando mis conocimientos de desarrollo con áreas relacionadas con los datos y la infraestructura.
+
+Actualmente sigo ampliando mis conocimientos mientras desarrollo proyectos personales y profesionales.
+
 
 ---
 
@@ -36,9 +44,9 @@ Me gusta crear aplicaciones completas, aprender nuevas tecnologías y mejorar co
 ### 🎓 Formación
 
 * CFGS Desarrollo de Aplicaciones Web (DAW)
+* CFGM Sistemas Microinformáticos y Redes (SMX)
 * Programación Avanzada en Python (150h)
 * Big Data, Machine Learning y Virtualización (150h)
-
 
 ---
 
@@ -91,15 +99,5 @@ Me gusta crear aplicaciones completas, aprender nuevas tecnologías y mejorar co
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=chivaa8&show_icons=true&include_all_commits=true&theme=transparent"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivaa8&layout=compact&theme=transparent"
-height="170"
-/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chivaa8&theme=transparent" />
 </div>
